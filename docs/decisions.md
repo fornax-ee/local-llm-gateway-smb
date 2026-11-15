@@ -23,7 +23,7 @@ Build the gateway first, even with one model. Every later application then gets 
 
 ## Logging
 
-Log metadata (key, profile, tokens, latency, status), not prompt content. Content logs duplicate confidential data and create a store that administrators can read. See the companion [AI usage policy](https://github.com/Heldorv/ai-policy-for-manufacturers).
+Log metadata (key, profile, tokens, latency, status), not prompt content. Content logs duplicate confidential data and create a store that administrators can read.
 
 ## Network exposure
 
