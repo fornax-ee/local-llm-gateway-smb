@@ -41,3 +41,7 @@ Written from building and planning such a setup in a manufacturing company: the 
 ## License
 
 Docs: CC BY 4.0. Config examples: MIT.
+
+Drafted with AI assistance, based on hands-on experience
+
+More notes and contact: [fornax.ee](https://www.fornax.ee) · Have a similar problem? Write to info@fornax.ee — happy to help.
